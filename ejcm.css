@@ -1,0 +1,55 @@
+body{
+    background-image: url("quadro.jpg");
+    background-repeat: round;
+    background-size: 1400px;
+    background-blend-mode: inherit;
+   align-items: center;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   filter: contrast(130%);
+}
+table, td,th{
+    color: #F1F3F0;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 8px 8px 8px 8px;
+    border: 2px solid whitesmoke;
+    align-items: auto;
+}
+
+h1 {
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-style: italic;
+    font-size: 60px;
+    font-weight: normal;
+    color: #F4F5F2;
+}
+
+h2{
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: normal;
+    color: #D7D8DB;
+}
+
+form {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-style: oblique;
+    font-size: 20px;
+    font-weight: normal;
+    color: #DAE1D9;
+}
+
+input{
+
+    background-color: #D7D8DB;
+}
+
+a{
+    color: #9B2E23;
+}
